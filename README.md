@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madaffaker
 - 👀 I’m interested in manufacturing engineering
-- 🌱 I’m currently learning basic coding skills
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on anything!!
 - 📫 Reach me @madaffaker on all socials!
 
